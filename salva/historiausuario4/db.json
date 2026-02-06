@@ -1,0 +1,6 @@
+{
+  "tasks": [
+    { "id": 1, "title": "Aprender Fetch" },
+    { "id": 2, "title": "Usar JSON Server" }
+  ]
+}
